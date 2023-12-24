@@ -21,6 +21,7 @@ jobs:
         uses: wagoid/commitlint-github-action@v3
         with:
           configFile: commitlint.config.cjs
+
       - name: Install Vercel CLI
         run: npm install --global vercel@canary
       - name: Pull Vercel Environment Information

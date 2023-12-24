@@ -10,8 +10,7 @@ const page = () => {
               Pitchfork Kickstarter Taxidermy
             </h1>
             <p className="w-full leading-relaxed text-gray-500 lg:w-1/2">
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table.
+              Heelo
             </p>
           </div>
           <div className="-m-4 flex flex-wrap">
