@@ -6,9 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint . --ext ts,tsx,js,jsx,cjs --report-unused-disable-directives --max-warnings 0",
-    "lint:fix": "eslint . --ext js,jsx,ts,tsx,cjs --fix",
-    "format": "prettier --write './**/*.{js,jsx,ts,cjs,tsx,css,html}'"
+    "lint": "eslint src --ext ts,tsx,js,jsx,cjs --report-unused-disable-directives --max-warnings 0",
+    "lint:fix": "eslint src --ext js,jsx,ts,tsx,cjs --fix",
+    "format": "prettier --write 'src/**/*.{js,jsx,ts,cjs,tsx,css,html}'"
   },
   "dependencies": {
     "next": "14.0.4",

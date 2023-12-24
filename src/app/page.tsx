@@ -10,7 +10,7 @@ const page = () => {
               Pitchfork Kickstarter Taxidermy
             </h1>
             <p className="w-full leading-relaxed text-gray-500 lg:w-1/2">
-              Heelo
+              Hello World
             </p>
           </div>
           <div className="-m-4 flex flex-wrap">
