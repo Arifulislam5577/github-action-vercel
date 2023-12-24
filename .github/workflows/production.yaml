@@ -11,6 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Run lint
+        run: npm run lint
+      - name: Run format check
+        run: npm run format
+      - name: Check commit messages
+        uses: wagoid/commitlint-github-action@v3
+        with:
+          configFile: commitlint.config.cjs
       - name: Install Vercel CLI
         run: npm install --global vercel@canary
       - name: Pull Vercel Environment Information

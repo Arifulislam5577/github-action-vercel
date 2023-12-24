@@ -35,7 +35,7 @@ const page = () => {
                 </h2>
                 <p className="text-base leading-relaxed">
                   Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.dfjdfdjfn
+                  tile poke farm.
                 </p>
               </div>
             </div>
