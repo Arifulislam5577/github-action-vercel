@@ -12,6 +12,10 @@ const page = () => {
             <p className="w-full leading-relaxed text-gray-500 lg:w-1/2">
               Hello World 123
             </p>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut,
+              nobis!
+            </p>
           </div>
           <div className="-m-4 flex flex-wrap">
             <div className="p-4 md:w-1/2 xl:w-1/3">
