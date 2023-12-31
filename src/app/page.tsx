@@ -7,7 +7,8 @@ const page = () => {
         <div className="container mx-auto px-5 py-24">
           <div className="mb-20 flex w-full flex-col flex-wrap items-center text-center">
             <h1 className="title-font mb-2 text-2xl font-medium text-gray-900 sm:text-3xl">
-              Pitchfork Kickstarter Taxidermy
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde,
+              maiores!
             </h1>
             <p className="w-full leading-relaxed text-gray-500 lg:w-1/2">
               Hello World 123
